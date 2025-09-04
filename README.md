@@ -9,7 +9,7 @@ Welcome! This repository is dedicated to learning how neural networks work and h
 - **Examples:** Sample projects and code snippets
 - **Resources:** Recommended books, articles, and courses
 
-## Getting Started
+<!-- ## Getting Started -->
 <!-- 
 1. Clone the repository:
     ```bash
