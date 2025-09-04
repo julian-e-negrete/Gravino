@@ -25,10 +25,10 @@ Welcome! This repository is dedicated to learning how neural networks work and h
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests. -->
-
+<!-- 
 
 <p>
-pandas
+pandas\n
 numpy
 micrograd
 graphviz
@@ -36,7 +36,7 @@ matplotlib
 python jupyter notebook
 <p>
 
-graphviz install exe too
+graphviz install exe too -->
 
 ## License
 
