@@ -26,10 +26,27 @@ Welcome! This repository is dedicated to learning how neural networks work and h
 
 Contributions are welcome! Please open issues or submit pull requests. -->
 
+
+<p>
+pandas
+numpy
+micrograd
+graphviz
+matplotlib
+python jupyter notebook
+<p>
+
+graphviz install exe too
+
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Balduneta mu.
 
 ---
 
 Happy learning!
+
+
+
+###
+
