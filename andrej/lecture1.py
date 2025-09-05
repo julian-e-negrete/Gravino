@@ -190,5 +190,8 @@ if __name__ == "__main__":
     print(L._prev)
     print(L._op) 
     
-    
-    draw_dot(L)
+    for child in L._prev:
+      print("child: ", child)
+      print("previos scalars: ", child._prev)
+      print("operation: ", child._op)
+    #draw_dot(L)
